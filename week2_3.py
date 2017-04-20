@@ -1,6 +1,5 @@
 import datetime
 import time
-你是傻瓜
 d1=datetime.date.today()
 print(d1)
 message=input("days:")
